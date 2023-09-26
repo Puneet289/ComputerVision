@@ -2,3 +2,9 @@ The project detects various facial keypoints (68 landmarks) defining the shape a
 <br>
 <br>
 The data can be found [here](https://www.kaggle.com/prashantarorat/facial-key-point-data).
+<br>
+<b>
+ Here is a sample of image depicting the performance of the model:
+ <br>
+ 
+![](https://github.com/Puneet289/ComputerVision/blob/main/FacialKeypoints/Sample.png?raw=true)
